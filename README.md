@@ -10,11 +10,11 @@ These selected books would be **very very good** for begineers, **very good** fo
 
 
 ## Please Read This Too (Disclaimer):
-Everything I will be passing-across is entirely a biased opinion based off my own experience, it is not authorised by any body(s)/organization(s) nor is it for any kind of promotion or business thingy.
+Everything I will be passing-across is entirely a biased opinion based on my own experience, it is not authorised by any body(s)/organization(s) nor is it for any kind of promotion or business thingy.
 
-Also, I am recommending these books beacause they are all fine books :smiley: and worth the read, so any not-so-nice remark i make does not make it not-worthwhile.
+Also, I am recommending these books beacause they are all fine books :smiley: and worth the read, so any not-so-nice remark I make does not make it not-worthwhile.
 
-> I should also say, keep in mind that these books are not skill-domain like an Airflow or Spark focused book, it a collection of a books teaching the job roles of a data engineer with an overall view of the required skill set. What I am saying is, it does nothing in-depth.
+> I should also say, keep in mind that these books are not skill-specific like an Airflow or Spark focused book, it a collection of a books teaching the job roles of a data engineer with an overall view of the required skill set. What I am saying is, it does nothing in-depth.
 
 My recommendation paradigm would contain:
 - it :+1::+1:,

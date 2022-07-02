@@ -2,7 +2,7 @@
 ![Data Engineering with Python](/assets/Data%20Engineering%20with%20Python.jpg)
 
 I so much love this book probably beacause it was the first book that got my feet started on data enginnering in code OR the book is just worth loving.
-### :+1: :+:
+### :+1: :+1:
 - Brings you up on DE with python as promised, if you have at least a month with python you are fine to consume everything detail by detail.
 - Introduces the following topics to 100% clarity for begineers:
     - reading and writing to files,
