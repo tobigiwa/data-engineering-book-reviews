@@ -19,7 +19,7 @@ Also, I am recommending these books beacause they are all fine books :smiley: an
 My recommendation paradigm would contain:
 - it :+1::+1:,
 - it :-1::-1:,
-- and a better approach to readinging the book for effectiveness :brain:.
+- and a better approach to readinging the book for effectiveness :brain: :brain:.
 
 ## What Would I Be Reading Next And You Should Too:
 ![Fundamentals of Data Engineering](/assets/Fundamentals%20of%20Data%20Engineering.jpg)
