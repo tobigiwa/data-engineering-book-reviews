@@ -23,7 +23,7 @@ Now, these are my dislike with this great book:
 
 See, the book is that good, I had only just two probs with it, period.
 
-### How you should approach it :brain:
+### How you should approach it :brain :brain:
 The book is in three section;
  - beginners, 
     - if your Python is good enough, finish up section one.
@@ -51,7 +51,7 @@ The book is in three section;
 
 Like I said, I stand with the book completely, read the whole 10 chapters A-Z myself.
 
-### How you should approach it :brain:
+### How you should approach it :brain: :brain:
  Just read and practice alongside with the book, period.
 
 
@@ -62,7 +62,7 @@ Like I said, I stand with the book completely, read the whole 10 chapters A-Z my
  Data engineering with/on the cloud is data engineering now. This book is not even an option, you just have to read and follow through with it to balance your skill-set as data engineer. Now, this is for AWS(Amazon), I should mention there is for GCP(Google) and AZURE(Microsoft).
 
 
-### How you should approach it :brain:
+### How you should approach it :brain: :brain:
 This book is better done with Youtube videos and actually creating an account to practice the teachings. I'll recommend the Youtube as it could be a little hard following through (visuals counts here, I'll tell you that), I should also add about practicing with cloud, watch out not to run into debts like i did.
 
  ![Data Engineering with Google Cloud Platform](/assets/Data%20Engineering%20with%20Google%20Cloud%20Platform.jpg) ![Data Engineering on Azure](/assets/Data%20Engineering%20on%20Azure.jpg)
