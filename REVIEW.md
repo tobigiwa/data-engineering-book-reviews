@@ -23,7 +23,7 @@ Now, these are my dislike with this great book:
 
 See, the book is that good, I had only just two probs with it, period.
 
-### How you should approach it :brain :brain:
+### How you should approach it :brain: :brain:
 The book is in three section;
  - beginners, 
     - if your Python is good enough, finish up section one.
