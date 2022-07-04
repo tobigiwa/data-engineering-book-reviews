@@ -1,7 +1,7 @@
 # Learning Data Engineering
 
 ## Project Description:
-This project is another gentle piece of addition to our DE learning path but this time, not code :sunglasses: :sunglasses:. Okay, with this I'll be giving my `sincerest and realest` reviews of some **data-engineering-centered** books (really just some, 'cause I've read a lot :open_book: :books:).
+This project is another gentle piece of addition to our DE learning path but this time, not code :sunglasses: :sunglasses:. Okay, with this I'll be giving my `sincerest and realest` reviews of some **data-engineering-centered books that can get you coding like a data engineer.**
 
 These selected books would be **very very good** for begineers, **very good** for early-intermediates and **just good** for experts who maybe wants to write a book of theirs too. So there we have them:
 
