@@ -21,7 +21,7 @@ My recommendation paradigm would contain:
 - it :-1::-1:,
 - and a better approach to readinging the book for effectiveness :brain: :brain:.
 
-## What Would I Be Reading Next And You Should Too:
+## What I Be Reading Next (And You Should Too):
 ![Fundamentals of Data Engineering](/assets/Fundamentals%20of%20Data%20Engineering.jpg)
 
 This is a new one of june 2022, this book on a little preview by myself, comments, reactions and discussion on LinkedIn; it does seems like a perfect book to get an high level understanding of Data Engineering. It a complete discussion on the paradigms, methodologies, skill-set, job role and the future of DE. I can't just wait to consume it knowledge already.
